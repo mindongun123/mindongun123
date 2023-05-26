@@ -1,5 +1,6 @@
 # 💫 About Me:
-MJGame<br>mindongun123@gmail.com<br>
+# MJGame
+<br>mindongun123@gmail.com<br>
 
 
 ## 🌐 Socials:
