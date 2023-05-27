@@ -10,11 +10,11 @@
 
 <div class ="Socials">
 
-<a href="https://instagram.com/https://www.instagram.com/mindongunjunmyungjoo/">
+<a href="https://www.instagram.com/mindongunjunmyungjoo/">
   <img src="./instagram.png" alt="instagram" width="32f" height="32f" >
 </a>
 
-<a href="https://facebook.com/https://www.facebook.com/md.6823">
+<a href="https://www.facebook.com/md.6823">
   <img src="./facebook.png" alt="facebook" width="32" height="32" >
 </a>
 
