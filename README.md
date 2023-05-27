@@ -7,7 +7,8 @@
 ![](https://github.com/mindongun123/MJGame/blob/main/MJGame.gif)
 ---
 <br>mindongun123@gmail.com<br>
-
+<br>HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mindongunjunmyungjoo/)
