@@ -37,10 +37,4 @@
 
 
 
-
-
-
-
-
-
-![alt tag](https://github.com/sunduk/MinimalShooting/blob/master/Documents/Images/playani.gif?raw=true)
+![](https://github.com/mindongun123/MJGame/blob/main/MJGame.gif)
