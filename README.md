@@ -32,3 +32,15 @@
 [![](https://visitcount.itsvg.in/api?id=mindongun23&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+![alt tag](https://github.com/sunduk/MinimalShooting/blob/master/Documents/Images/playani.gif?raw=true)
