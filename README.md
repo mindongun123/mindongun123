@@ -8,9 +8,6 @@
 <br>🏠HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam<br>
 ---
 
-
-## 🌐 Socials:
-
 <div class ="Socials">
 
 <a href="https://instagram.com/https://www.instagram.com/mindongunjunmyungjoo/">
