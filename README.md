@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+---
 # MJ Game
 ---
 
