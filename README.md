@@ -1,8 +1,10 @@
 # 💫 About Me:
 
 # MJ Game
+---
 
 ![](https://github.com/mindongun123/MJGame/blob/main/MJGame.gif)
+---
 <br>mindongun123@gmail.com<br>
 
 
