@@ -11,15 +11,15 @@
 <div class ="Socials">
 
 <a href="https://www.instagram.com/mindongunjunmyungjoo/">
-  <img src="./instagram.png" alt="instagram" width="32f" height="32f" >
+  <img src="./instagram.png"  width="32f" height="32f" >
 </a>
 
 <a href="https://www.facebook.com/md.6823">
-  <img src="./facebook.png" alt="facebook" width="32" height="32" >
+  <img src="./facebook.png"   width="32" height="32" >
 </a>
 
 <a href="https://discord.gg/mindongun#9535">
-  <img src="./discord.png" alt="discord" width="32" height="32" >
+  <img src="./discord.png"   width="32" height="32" >
 </a>
 </div>
 
