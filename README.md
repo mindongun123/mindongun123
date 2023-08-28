@@ -40,9 +40,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)-->
 ---
-[![](https://visitcount.itsvg.in/api?id=mindongun23&icon=1&color=3)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=mindongun23&icon=1&color=3)](https://visitcount.itsvg.in)-->
 
-[![](https://visitcount.itsvg.in/api?id=mindongun123&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mindongun23&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
