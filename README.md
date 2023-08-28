@@ -1,50 +1,102 @@
-
 # MJ Game
+
+<img align='left' src="https://github.com/mindongun123/MJGame/blob/main/MJGame.gif" width="240">
+
+<h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> MJ Game ...<image>   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+    
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</h3> 
+
+<h3>
+   
+  
+      Nguyen Minh Dong         2003 
+</pre>
+
+</h3>
+
+
+
+
 ---
+**About me**
 
-![](https://github.com/mindongun123/MJGame/blob/main/MJGame.gif)
----
-> <br>📧 mindongun123@gmail.com<br>
-> <br>🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam<br>
----
+- 📧 mindongun123@gmail.com
+- 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
 
-<div class ="Socials">
-
-
-
-<!--<a href="https://www.facebook.com/md.6823">
-  <img src="./facebook.png"   width="32" height="32" >
-</a>
-<a href="https://www.instagram.com/mindongunjunmyungjoo/">
-  <img src="./instagram.png"  width="32f" height="32f" >
-</a>
-
-
-<a href="https://discord.gg/mindongun#9535">
-  <img src="./discord.png"   width="32" height="32" >
-</a>
-</div>
-
--->
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
+<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
+<!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
+- 💬 Ask me about anything [here](https://facebook.com//md.6823)
+  
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)-->
----
-<!--[![](https://visitcount.itsvg.in/api?id=mindongun23&icon=1&color=3)](https://visitcount.itsvg.in)-->
+
+<!-- 
+| <a href="https://github.com/mindongun123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mindongun123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindongun123&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
+
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&theme=white)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindongun123&layout=compact)|
+| ------------- | ------------- |
+
+
+
+
+
+
+## Show Repositories Public
+
+
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=mindongun123&show_owner=true)](https://github.com/mindongun123/mindongun123)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=MJGame_APK&show_owner=true)](https://github.com/mindongun123/MJGame_APK)|
+| ------------- | ------------- |
+
+
+
+
+<h1>
+ Game
+</h1>
+
+
+
+
+
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=mindongun23&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
 
