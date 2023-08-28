@@ -44,9 +44,6 @@
 | ------------- | ------------- |
 
 
-
-
-
 ## Game
 
 
@@ -65,14 +62,13 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
 </p>
  
-
+[![](https://visitcount.itsvg.in/api?id=mindongun123&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=mindongun123&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
