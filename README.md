@@ -4,7 +4,6 @@
 | --- | --- |
     
 
----
 ## **About me**
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
@@ -47,10 +46,6 @@
 ## Game
 
 
-
-
-
-
 <!-- Nothing weird to see here -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
@@ -64,7 +59,6 @@
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
 </p>
  
-[![](https://visitcount.itsvg.in/api?id=mindongun123&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 
