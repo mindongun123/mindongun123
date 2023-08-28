@@ -4,8 +4,8 @@
 
 ![](https://github.com/mindongun123/MJGame/blob/main/MJGame.gif)
 ---
-> <br>📧mindongun123@gmail.com<br>
-> <br>🏠HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam<br>
+> <br>📧 mindongun123@gmail.com<br>
+> <br>🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam<br>
 ---
 
 <div class ="Socials">
