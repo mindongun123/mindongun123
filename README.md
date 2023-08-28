@@ -20,7 +20,7 @@
 
 
 ---
-**About me**
+## **About me**
 
 - 📧 mindongun123@gmail.com
 - 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
@@ -60,9 +60,8 @@
 
 
 
-<h1>
- Game
-</h1>
+
+## Game
 
 
 
@@ -86,6 +85,7 @@
 
 
 
+---
 
 
 [![](https://visitcount.itsvg.in/api?id=mindongun23&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
