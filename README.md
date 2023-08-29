@@ -57,16 +57,16 @@
 
 
 <div style="text-align: center;">
-    <a href="Liên_kết_tới_trang_1">
+    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/MatchKit.png" alt="Mô tả ảnh 1" width="300", height = "80">
     </a>
-    <a href="Liên_kết_tới_trang_2">
+    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/GMario.png" alt="Mô tả ảnh 2" width="300", height = "80">
     </a>
-    <a href="Liên_kết_tới_trang_3">
+    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/GBlock.png" alt="Mô tả ảnh 3" width="300", height = "80">
     </a>
-    <a href="Liên_kết_tới_trang_4">
+    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="Mô tả ảnh 3" width="300", height = "80">
     </a>
 </div>
