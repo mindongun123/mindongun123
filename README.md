@@ -47,13 +47,16 @@
 
 
 <!-- Nothing weird to see here -->
-<p align="center">
+<div  align="center">
   <a href="https://open.spotify.com/track/0NOOpNzTcrgMiKigtt9hXa">
     <img src= "https://github.com/mindongun123/mindongun123/blob/main/CheerUp.png" right ="400" height = "100">
 <!--     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" > -->
   </a>
-</p>
+</div>
 
+<p>
+    
+</p>
 
 <div style="text-align: center;">
     <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">
