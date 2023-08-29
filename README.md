@@ -62,7 +62,32 @@
 ---
 
 
+<div style="text-align: center;">
+    <a href="Liên_kết_tới_trang_1">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 1" width="280", height = "60">
+    </a>
+    <a href="Liên_kết_tới_trang_2">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 2" width="280", height = "60">
+    </a>
+    <a href="Liên_kết_tới_trang_3">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 3" width="280", height = "60">
+    </a>
+</div>
 
+<br></br>
+
+
+<div style="text-align: center;">
+    <a href="Liên_kết_tới_trang_1">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 1" width="280", height = "60">
+    </a>
+    <a href="Liên_kết_tới_trang_2">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 2" width="280", height = "60">
+    </a>
+    <a href="Liên_kết_tới_trang_3">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 3" width="280", height = "60">
+    </a>
+</div>
 
 
 
