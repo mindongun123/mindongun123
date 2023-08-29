@@ -55,39 +55,24 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-</p>
- 
----
-
 
 <div style="text-align: center;">
     <a href="Liên_kết_tới_trang_1">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 1" width="280", height = "60">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/MatchKit.png" alt="Mô tả ảnh 1" width="300", height = "80">
     </a>
     <a href="Liên_kết_tới_trang_2">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 2" width="280", height = "60">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/GMario.png" alt="Mô tả ảnh 2" width="300", height = "80">
     </a>
     <a href="Liên_kết_tới_trang_3">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 3" width="280", height = "60">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/GBlock.png" alt="Mô tả ảnh 3" width="300", height = "80">
+    </a>
+    <a href="Liên_kết_tới_trang_4">
+        <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="Mô tả ảnh 3" width="300", height = "80">
     </a>
 </div>
+
 
 <br></br>
-
-
-<div style="text-align: center;">
-    <a href="Liên_kết_tới_trang_1">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 1" width="280", height = "60">
-    </a>
-    <a href="Liên_kết_tới_trang_2">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 2" width="280", height = "60">
-    </a>
-    <a href="Liên_kết_tới_trang_3">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/discord.png" alt="Mô tả ảnh 3" width="280", height = "60">
-    </a>
-</div>
 
 
 
