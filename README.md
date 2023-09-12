@@ -71,7 +71,7 @@
     <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="Mô tả ảnh 3" width="265", height = "75">
     </a>
-     <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Runner3D">
+     <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">
         <img src="https://github.com/mindongun123/mindongun123/blob/main/Runner3D.png" alt="Mô tả ảnh 3" width="265", height = "75">
     </a>
 </div>
