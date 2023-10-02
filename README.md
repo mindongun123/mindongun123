@@ -65,70 +65,7 @@
             </td>
             <td>
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">[MJGame] Game Match Kit</a>
-                <div>Game nối 3 hoàn hảo cho người chơi trải nghiệm: đồ họa bắt mắt, cùng các Level chơi tạo được sự cuốn hút, mới mẽ...</div>
-                <div><i>06/008/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GMario.png"" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">[MJGame] Game Mario</a>
-                <div>Trải nghiệm cảm giác đươc vượt qua muôn vàn thế giới, cùng các nhân vật quen thuộc của tuổi thơ...</div>
-                <div><i>26/06/2023/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GBlock.png" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">[MJGame] Game Block</a>
-                <div>Tựa Game cổ điển &#39; gắn liền với bao thê hệ trẻ em trên thế giới, từ cầm tay, cho đến mobile...</div>
-                <div><i>06/06/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">[MJGame] Game DotConnect</a>
-                <div>Nếu bạn là một người yêu thích Logic, hãy cùng kiểm tra tư duy tìm đường đi trong trò chơi...</div>
-                <div><i>16/02/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/Runner3D.png">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">[MJGame] Game Runner 3D</a>
-                <div>Game thuôc thể loại Cansual 3D, với các nhân vật đơn giản, ngộ nghĩnh, cùng vượt qua các thử thách khó khăn trên con đường tiến đến đỉnh vinh quang...</div>
-                <div><i>16/09/2022</i></div>
-            </td>
-        </tr>
-</table>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## Today's Weather Forecast in My Hometown
-
-
-
-`Hanoi, Vietnam - 02/10/2023`
+                <div>Game nối 3 hoàn hảo cho người chơi trải nghiệm: đồ họThanHoa, Vietnam - 02/10/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -165,14 +102,6 @@ Sunny
 
 </div>
 
-
-
-
-<div align="right">
-
-*Updated at: 2023-10-02T06:29:30Z - by **[mindongun_MJGame](https://github.com/mindongun123/mindongun123)***
-
-</div>
 
 
 
