@@ -83,9 +83,9 @@
 
 
 
-
-
-
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "daily-table" .Weathers }}
+{{ formatTime .UpdatedAt }}
 
 
 
