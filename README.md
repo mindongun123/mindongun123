@@ -9,10 +9,10 @@
 
 - 📧 mindongun123@gmail.com
 - 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
+- 💬 Ask me about anything [here](https://facebook.com//md.6823)
 <!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
 <!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
-- 💬 Ask me about anything [here](https://facebook.com//md.6823)
   
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
