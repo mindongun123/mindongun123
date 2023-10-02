@@ -169,7 +169,7 @@ Sunny
 ###
 
 
-`Thanh Hoa, Vietnam - 02/10/2023`
+`ThanhHoa, Vietnam - 02/10/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
