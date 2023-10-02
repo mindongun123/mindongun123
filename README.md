@@ -43,7 +43,7 @@
 | ------------- | ------------- |
 
 
-## Game
+## MUSIC LOVE
 
 
 <!-- Nothing weird to see here -->
@@ -54,29 +54,7 @@
   </a>
 </div>
 
-<p>
-    
-</p>
-
-<div>
-<a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/MatchKit.png" alt="Mô tả ảnh 1" width="265", height = "75">
-    </a>
-    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/GMario.png" alt="Mô tả ảnh 2" width="265", height = "75">
-    </a>
-    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/GBlock.png" alt="Mô tả ảnh 3" width="265", height = "75">
-    </a>
-    <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="Mô tả ảnh 3" width="265", height = "75">
-    </a>
-     <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">
-        <img src="https://github.com/mindongun123/mindongun123/blob/main/Runner3D.png" alt="Mô tả ảnh 3" width="265", height = "75">
-    </a>
-</div>
-<br></br>
-
+### GAME
 
 <table>
         <tr>
@@ -86,9 +64,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">20X Faster Golang Docker Builds</a>
-                <div>According to the Go command documentation:  &#34;The go command caches build outputs for reuse in future...</div>
-                <div><i>25/09/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">[MJGame] Game Match Kit</a>
+                <div>Game nối 3 hoàn hảo cho người chơi trải nghiệm: đồ họa bắt mắt, cùng các Level chơi tạo được sự cuốn hút, mới mẽ...</div>
+                <div><i>06/008/2023</i></div>
             </td>
         </tr>
         <tr>
@@ -98,9 +76,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
-                <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
-                <div><i>20/09/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">[MJGame] Game Mario</a>
+                <div>Trải nghiệm cảm giác đươc vượt qua muôn vàn thế giới, cùng các nhân vật quen thuộc của tuổi thơ...</div>
+                <div><i>26/06/2023/2023</i></div>
             </td>
         </tr>
         <tr>
@@ -110,9 +88,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
-                <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
-                <div><i>21/09/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">[MJGame] Game Block</a>
+                <div>Tựa Game cổ điển &#39; gắn liền với bao thê hệ trẻ em trên thế giới, từ cầm tay, cho đến mobile...</div>
+                <div><i>06/06/2023</i></div>
             </td>
         </tr>
         <tr>
@@ -122,9 +100,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
-                <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
-                <div><i>20/09/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">[MJGame] Game DotConnect</a>
+                <div>Nếu bạn là một người yêu thích Logic, hãy cùng kiểm tra tư duy tìm đường đi trong trò chơi...</div>
+                <div><i>16/02/2023</i></div>
             </td>
         </tr>
         <tr>
@@ -134,9 +112,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
-                <div>If I get a JWT and can decode the payload, how is it secure? Why couldn&#39;t I just grab the token out...</div>
-                <div><i>15/09/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">[MJGame] Game Runner 3D</a>
+                <div>Game thuôc thể loại Cansual 3D, với các nhân vật đơn giản, ngộ nghĩnh, cùng vượt qua các thử thách khó khăn trên con đường tiến đến đỉnh vinh quang...</div>
+                <div><i>16/09/2022</i></div>
             </td>
         </tr>
 </table>
@@ -144,17 +122,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-## My Recent Articles
-
-
-<div align="right">
-
-*Updated at: 2023-10-02T06:29:28Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
-
-</div>
 
 
 ## Today's Weather Forecast in My Hometown
@@ -194,7 +161,7 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2023-10-02T06:29:30Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-02T06:29:30Z - by **[mindongun_MJGame](https://github.com/mindongun123/mindongun123)***
 
 </div>
 
