@@ -42,7 +42,7 @@
 | ------------- | ------------- |
 
 
-## MUSIC LOVE
+## Music love
 
 
 <!-- Nothing weird to see here -->
@@ -53,7 +53,7 @@
   </a>
 </div>
 
-### GAME
+### Game
 
 <table>
         <tr>
