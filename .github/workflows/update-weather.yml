@@ -13,7 +13,7 @@ jobs:
             - name: Generate README
               uses: huantt/weather-forecast@v1.0.5
               with:
-                city: HaNoi
+                city: ThanhHoa
                 days: 7
                 weather-api-key: ${{ 0735b8e1d1464d8182672539230210}}
                 template-file: 'README.md.template'
