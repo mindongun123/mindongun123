@@ -92,7 +92,7 @@
                 <div><i>06/06/2023</i></div>
             </td>
         </tr>
-        <tr>
+<!--         <tr>
             <td width="300px">
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
                     <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="thumbnail">
@@ -115,7 +115,7 @@
                 <div>Game thuôc thể loại Cansual 3D, với các nhân vật đơn giản, ngộ nghĩnh, cùng vượt qua các thử thách khó khăn trên con đường tiến đến đỉnh vinh quang...</div>
                 <div><i>16/09/2022</i></div>
             </td>
-        </tr>
+        </tr> -->
 </table>
 
 
