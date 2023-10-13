@@ -80,11 +80,28 @@
                 <div><i>26/06/2023/2023</i></div>
             </td>
         </tr>
+       <tr>
+            <td width="300px">
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJBlock.png"" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">[MJGame] Game Block</a>
+                <div>Tựa Game huyền thoại gắn liền với biết bao nhiêu người dân trên Thế giới, lối chơi đơn giản, dễ tiếp cận, từ thể loại máy chơi cầm tay đến mobile...</div>
+                <div><i>26/05/2023/2023</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_BlockMJEmoji">[MJGame] Game Emoji</a>
-                <div>Game đơn giản, đồ họa đẹp mắt, đưa người chơi trải qua các cảm xúc của cuộc sống hàng ngày, là tựa game giải trí không thể bỏ lỡ trong năm 2023...</div>
-                <div><i>06/06/2023</i></div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Emoji">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJEmoji.png"" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Emoji">[MJGame] Game Emoji</a>
+                <div>Đồ họa đơn giản, quen thuộc, gần gủi, với những icon cảm xúc khó tả của cuộc sống, là tựa game chơi mọi lúc mọi nơi, rảnh rỗi, buồn chán, vui tươi... Game là một thứ quà nhà phát triển đã mang đến vào mùa hè 2023.</div>
+                <div><i>16/09/2023/2023</i></div>
             </td>
         </tr>
 <!--         <tr>
