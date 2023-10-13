@@ -94,12 +94,12 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Emoji">
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji">
                     <img src="https://github.com/mindongun123/mindongun123/blob/main/MJEmoji.png"" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Emoji">[MJGame] Game Emoji</a>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji">[MJGame] Game Emoji</a>
                 <div>Đồ họa đơn giản, quen thuộc, gần gủi, với những icon cảm xúc khó tả của cuộc sống, là tựa game chơi mọi lúc mọi nơi, rảnh rỗi, buồn chán, vui tươi... Game là một thứ quà nhà phát triển đã mang đến vào mùa hè 2023.</div>
                 <div><i>16/09/2023/2023</i></div>
             </td>
