@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MatchKit.png" alt="thumbnail">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJMatchKit.png" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -71,7 +71,7 @@
         <tr>
             <td width="300px">
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GMario.png"" alt="thumbnail">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJMario.png"" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -82,13 +82,8 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GBlock.png" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block">[MJGame] Game Block</a>
-                <div>Tựa Game cổ điển &#39; gắn liền với bao thê hệ trẻ em trên thế giới, từ cầm tay, cho đến mobile...</div>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_BlockMJEmoji">[MJGame] Game Emoji</a>
+                <div>Game đơn giản, đồ họa đẹp mắt, đưa người chơi trải qua các cảm xúc của cuộc sống hàng ngày, là tựa game giải trí không thể bỏ lỡ trong năm 2023...</div>
                 <div><i>06/06/2023</i></div>
             </td>
         </tr>
