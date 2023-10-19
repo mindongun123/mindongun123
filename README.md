@@ -107,7 +107,7 @@
         <tr>
             <td width="300px">
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_TapMusic">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJ TapMusic.png" alt="thumbnail">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJGame TapMusic.png" alt="thumbnail">
                 </a>
             </td>
             <td>
