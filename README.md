@@ -104,6 +104,19 @@
                 <div><i>16/09/2023/2023</i></div>
             </td>
         </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_TapMusic">
+                    <img src="https://github.com/mindongun123/mindongun123/blob/main/MJ TapMusic.png" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_TapMusic">[MJGame] Game Tap Music</a>
+                <div>Trò chơi Âm nhạc lôi cuốn, đơn giản, với kho âm nhạc lên tới 1000 bài hát hot nhất hiện nay, .... cùng tận hưởng những giây phút tuyệt vời cùng TapMusic nào!</div>
+                <div><i>16/09/2023/2023</i></div>
+            </td>
+        </tr>
+    
 <!--         <tr>
             <td width="300px">
                 <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
