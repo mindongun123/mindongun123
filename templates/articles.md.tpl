@@ -17,6 +17,6 @@
 
 <div align="right">
 
-*Updated at: {{formatTime .Time}} - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: {{formatTime .Time}} - by **[mindongun123/article-listing](https://github.com/mindongun123/article-listing)***
 
 </div>

@@ -12,6 +12,6 @@
 
 <div align="right">
 
-*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: {{formatTime .UpdatedAt}} - by **[mindongun123/weather-forecast](https://github.com/mindongun123/weather-forecast)***
 
 </div>
