@@ -7,14 +7,11 @@
 ## **About me**
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-- 📧 mindongun123@gmail.com
-- 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
-- 💬 Ask me about anything [here](https://facebook.com//md.6823)
-<!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
-<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
-<!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
+ 📧 mindongun123@gmail.com </br>
+ 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam</br>
+ 💬 Ask me about anything [here](https://facebook.com//md.6823)</br>
   
-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -161,8 +158,5 @@ Sunny
 
 
 ![](https://komarev.com/ghpvc/?username=mindongun123&&color=007bff)
-
-
-
-
  
+
