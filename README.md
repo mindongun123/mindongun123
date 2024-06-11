@@ -20,13 +20,6 @@
 
 
 
-<!-- 
-| <a href="https://github.com/mindongun123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mindongun123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindongun123&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&theme=white)
 
 
@@ -49,7 +42,6 @@
 <div  align="center">
   <a href="https://open.spotify.com/track/0NOOpNzTcrgMiKigtt9hXa">
     <img src= "https://github.com/mindongun123/mindongun123/blob/main/CheerUp.png" right ="400" height = "100">
-<!--     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" > -->
   </a>
 </div>
 
@@ -117,30 +109,6 @@
             </td>
         </tr>
     
-<!--         <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/GConnect.png" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame-Connect">[MJGame] Game DotConnect</a>
-                <div>Nếu bạn là một người yêu thích Logic, hãy cùng kiểm tra tư duy tìm đường đi trong trò chơi...</div>
-                <div><i>16/02/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">
-                    <img src="https://github.com/mindongun123/mindongun123/blob/main/Runner3D.png">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D">[MJGame] Game Runner 3D</a>
-                <div>Game thuôc thể loại Cansual 3D, với các nhân vật đơn giản, ngộ nghĩnh, cùng vượt qua các thử thách khó khăn trên con đường tiến đến đỉnh vinh quang...</div>
-                <div><i>16/09/2022</i></div>
-            </td>
-        </tr> -->
 </table>
 
 
@@ -194,3 +162,7 @@ Sunny
 
 ![](https://komarev.com/ghpvc/?username=mindongun123&&color=007bff)
 
+
+
+
+ 
