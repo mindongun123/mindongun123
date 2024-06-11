@@ -1,6 +1,6 @@
 # MJ Game
 
-|<img align='left' src="https://github.com/mindongun123/MJGame/blob/main/MJGame.gif" width="240">| <h2>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Nguyen Minh Dong 2003 <image>  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>|
+|<img align='left' src="https://github.com/mindongun123/MJGame/blob/main/MJGame.gif" width="240">| <h2>  <img src="https://github.com/mindongun123/mindongun123/blob/main/gif-pikachu.gif" width="50"> Nguyen Minh Dong 2003 <image>  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>|
 | --- | --- |
     
 
