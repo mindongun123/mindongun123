@@ -1,48 +1,190 @@
-# MJ Game
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+-->
+
+<!-- ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+-->
+
+
+
+
+# <div align="center"> MJ Game </div>
+
+ 
+<div align= "center">
 
 |<img align='left' src="https://github.com/mindongun123/MJGame/blob/main/MJGame.gif" width="240">| <h2>  <img src="https://github.com/mindongun123/mindongun123/blob/main/gif-pikachu.gif" width="50"> Nguyen Minh Dong 2003 <image>  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>|
-| --- | --- |
-    
+| ---------------------------------------- | --------------------------------------------------------- |
 
-## **About me**
+</div>
+
+
+<details open>
+    <summary><h2>About me</h2></summary>
+
+------------
+    
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
- 📧 mindongun123@gmail.com </br>
- 🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam</br>
- 💬 Ask me about anything [here](https://facebook.com//md.6823)</br>
+   + ### Info
+        📧 mindongun123@gmail.com
+         
+        🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
+         
+        💬 Ask me about anything [here](https://facebook.com//md.6823)
+       
+   + ### Skill
   
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+        ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+        ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
+        ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&theme=white)
+   + ### Statistics
 
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindongun123&show_icons=true&theme=white)
+ 
+ 
+</details
 
+</br>
 
+<details open>
+    <summary><h2>Show Repositories Public</h2></summary>
 
+-----------------------------
 
-
-
-## Show Repositories Public
-
+<div  align="center">
+    
 |Top1|Top2|
-|-------------|-------------|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=mindongun123&show_owner=true)](https://github.com/mindongun123/mindongun123)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=MJGame_APK&show_owner=true)](https://github.com/mindongun123/MJGame_APK)|
+|------------------------------------------------------------|---------------------------------------------------------|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=2024GB&show_owner=false)](https://github.com/mindongun123/2024GB)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mindongun123&repo=2024GA&show_owner=flase)](https://github.com/mindongun123/2024GA)|
+ 
+</div>
+
+</details>
 
 
-## Music love
+</br>
 
 
+<details open>
+    <summary><h2>Music love</h2></summary>
+    
+-------------------------------------------------------
+
+* Song love
+    
 <!-- Nothing weird to see here -->
 <div  align="center">
   <a href="https://open.spotify.com/track/0NOOpNzTcrgMiKigtt9hXa">
     <img src= "https://github.com/mindongun123/mindongun123/blob/main/CheerUp.png" right ="400" height = "100">
   </a>
-</div>
+</div> 
 
-## My Recent Articles
+<div  align="center">
+  <h4>Song: 산다는 건 </h4>
+  <h4>Singer: Hong Jin-Young</h4>
+  <h4>Nationality: Korean</h4>
+
+  <details open>
+        <summary><h2>Lyric</h2></summary>
+
+산다는 건 다 그런 <br>
+거래요 힘들고 아픈 날도 많지만 <br>
+산다는 건 참 좋은 거래요 <br>
+오늘도 수고 많으셨어요 <br>
+어떻게 지내셨나요 <br>
+오늘도 한잔 걸치셨나요 <br>
+뜻대로 되는 일 없어 <br>
+한숨이 나도 슬퍼마세요
+
+
+어느 구름에 비가 들었는지 누가 알아 <br>
+살다보면 나에게도 좋은 날이 온답니다
+
+산다는 건 다 그런 거래요 <br>
+힘들고 아픈 날도 많지만 <br>
+산다는 건 참 좋은 거래요 <br>
+오늘도 수고 많으셨어요
+
+옆집이 부러운가요 <br>
+친구가 요즘 잘나가나요 <br>
+남들은 다 좋아 보여 <br>
+속상해져도 슬퍼마세요 <br>
+
+사람마다 알고 보면 말 못할 사연도 많아 <br>
+인생이 별거 있나요 거기서 거기인거지 <br>
+
+산다는 건 다 그런 거래요 <br>
+힘들고 아픈 날도 많지만 <br>
+산다는 건 참 좋은 거래요 <br>
+오늘도 수고 많으셨어요 <br>
+
+산다는 건 다 그런 거래요 <br>
+세상일이란 알 수 없지만 <br>
+산다는 건 참 멋진 거래요 <br>
+모두가 내일도 힘내세요 <br>
+
+</details>
+    
+</div> 
+
+* Bands
+
+
+<div  align="center">
+ <a href="https://www.youtube.com/channel/UCqwUnggBBct-AY2lAdI88jQ">
+    <img src= "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/05/10095513/hero-image-for-cms-2-1600x900.jpeg" right ="400" width ="400">
+  </a>
+
+</br>
+  <h4>Bands: BABY MONSTER</h4>
+  <h4>Nationality: Korean</h4>
+</div> 
+
+
+</details>
+
+
+</br>
+
+
+
+<details open>
+    <summary><h2>My Recent Articles</h2></h2></summary>
+ 
+-------------------------------------------------------
 
 <table>
         <tr>
@@ -109,13 +251,23 @@
 </table>
 
 
+ 
+
+</details>
+
+
+</br>
+
+<details open>
+    <summary><h2>Today's Weather Forecast in My Hometown</h2></h2></summary>
+ 
+-------------------------------------------------------
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-## Today's Weather Forecast in My Hometown
-
-
+ 
 
 `ThanhHoa, Vietnam - 02/10/2023`
 
@@ -153,10 +305,53 @@ Sunny
 *Updated at: 2023-10-02T06:29:30Z - by **[mindongun_MJGame](https://github.com/mindongun123/mindongun123)***
 
 </div>
-
+ 
+</details>
 
 
 
 ![](https://komarev.com/ghpvc/?username=mindongun123&&color=007bff)
+ 
+
+
+# TEST
+
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+
+
+
+
  
 
