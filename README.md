@@ -1,3 +1,5 @@
+# <div align="center"> MJ Game </div>
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -6,38 +8,6 @@
 </picture>
 -->
 
-<!-- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
--->
-
-
-
-
-# <div align="center"> MJ Game </div>
 
  
 <div align= "center">
@@ -51,17 +21,17 @@
 <details open>
     <summary><h2>About me</h2></summary>
 
-------------
+
     
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
-
+ 
    + ### Info
         📧 mindongun123@gmail.com
          
         🏠 HuuLe3-ThoXuong-ThoXuan-ThanhHoa-VietNam
          
         💬 Ask me about anything [here](https://facebook.com//md.6823)
-       
+
    + ### Skill
   
         ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -79,10 +49,9 @@
 
 </br>
 
-<details open>
-    <summary><h2>Show Repositories Public</h2></summary>
 
------------------------------
+<h2>Show Repositories Public</h2>
+
 
 <div  align="center">
     
@@ -92,18 +61,18 @@
  
 </div>
 
-</details>
-
+> [!NOTE]
+> Repositories Star
 
 </br>
 
 
-<details open>
-    <summary><h2>Music love</h2></summary>
-    
--------------------------------------------------------
 
-* Song love
+<h2>Favourite</h2> 
+    
+
+> [!TIP]
+>  Song love
     
 <!-- Nothing weird to see here -->
 <div  align="center">
@@ -117,7 +86,7 @@
   <h4>Singer: Hong Jin-Young</h4>
   <h4>Nationality: Korean</h4>
 
-  <details open>
+  <details>
         <summary><h2>Lyric</h2></summary>
 
 산다는 건 다 그런 <br>
@@ -160,7 +129,8 @@
     
 </div> 
 
-* Bands
+> [!Important]
+> Bands
 
 
 <div  align="center">
@@ -175,7 +145,9 @@
 
 
 
-* Actor
+> [!WARNING]
+> Bands
+ 
 
 <div align = "center">
   
@@ -187,17 +159,15 @@
 
 </div>
 
-</details>
 
 
 </br>
 
 
 
-<details open>
-    <summary><h2>My Recent Articles</h2></h2></summary>
+
+<h2>My Recent Articles</h2>
  
--------------------------------------------------------
 
 <table>
         <tr>
@@ -264,17 +234,15 @@
 </table>
 
 
+> [!NOTE]
+> Cac san pham cua toi
  
-
-</details>
-
 
 </br>
 
-<details open>
+<details>
     <summary><h2>Today's Weather Forecast in My Hometown</h2></h2></summary>
  
--------------------------------------------------------
 
 
 
@@ -325,6 +293,70 @@ Sunny
 
 ![](https://komarev.com/ghpvc/?username=mindongun123&&color=007bff)
  
+
+<details>
+<summary><h2>Address</h2></h2></summary>
+  
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "name": "Hà Nội",
+        "country": "Vietnam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8552, 21.0285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Thôn Hữu Lễ 3, Thọ Xương, Thọ Xuân, Thanh Hóa",
+        "country": "Vietnam",
+        "district": "Thọ Xuân",
+        "province": "Thanh Hóa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           105.40703699255063, 19.92564208905319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Vùng đất Việt Nam"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [102.1445, 8.2036],  
+            [109.4644, 8.2036],  
+            [109.4644, 23.3873], 
+            [102.1445, 23.3873], 
+            [102.1445, 8.2036] 
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+
+</details>
+
 
 
 # TEST
