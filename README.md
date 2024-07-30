@@ -174,6 +174,19 @@
 </div> 
 
 
+
+* Actor
+
+<div align = "center">
+  
+| Kim Ji-Won | Li Lan Dich |
+|----|----|
+|<a href="https://vi.wikipedia.org/wiki/Kim_Ji-won_(di%E1%BB%85n_vi%C3%AAn)"><img src= "https://0.soompi.io/wp-content/uploads/2021/07/13014458/kim-ji-won-1.jpeg" right ="400" height="300px"></a>| <a href="https://vi.wikipedia.org/wiki/L%C3%BD_Lan_%C4%90%E1%BB%8Bch"><img src= "https://i.pinimg.com/originals/78/19/91/781991a45a68691a3bcf639b58163128.jpg" right ="400" height="300px"></a> |
+|<h4>Actor: Kim Ji-Won (김지원)</h4>| <h4>Actor: Li Lan Dich (李兰迪)</h4>|
+|  <h4>Nationality: Korean</h4>|  <h4>Nationality: China</h4>|
+
+</div>
+
 </details>
 
 
