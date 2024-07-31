@@ -178,7 +178,7 @@ This is a sentence with footnote[^2]!
  
 
 > [!NOTE]
-> <h3>My personal products</h3>h3> These are my products. You can click on the avatar to <a>download</a>it, play it out ...
+> <h3>My personal products</h3> These are my products. You can click on the avatar to <a>download</a>it, play it out ...
 
 </br>
 
