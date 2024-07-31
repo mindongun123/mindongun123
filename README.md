@@ -1,5 +1,6 @@
 # <div align="center"> MJ Game </div>
 
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -47,10 +48,16 @@
  
 </details
 
+
+## 
 </br>
 
-
 <h2>Show Repositories Public</h2>
+
+
+> [!NOTE]
+> <h3>Repositories Star</h3> These are the projects that I consider to be my best quality. You can watch it, start learning about it ...
+
 
 
 <div  align="center">
@@ -61,11 +68,7 @@
  
 </div>
 
-> [!NOTE]
-> Repositories Star
-
-
---------------------------------------
+###
 
 </br>
 
@@ -75,7 +78,7 @@
     
 
 > [!TIP]
->  Song love
+>  ### Song 
     
 <!-- Nothing weird to see here -->
 <div  align="center">
@@ -132,8 +135,10 @@
     
 </div> 
 
+</br>
+
 > [!Important]
-> Bands
+> ### Bands
 
 
 <div  align="center">
@@ -146,10 +151,10 @@
   <h4>Nationality: Korean</h4>
 </div> 
 
-
+</br>
 
 > [!WARNING]
-> Bands
+> ### Actor
  
 
 <div align = "center">
@@ -162,15 +167,20 @@
 
 </div>
 
------------------------------------------
-
+###
 </br>
-
-
-
+<!--
+This is a sentence with footnote[^2]!
+[^2]: This is the footnote!
+-->
 
 <h2>My Recent Articles</h2>
  
+
+> [!NOTE]
+> <h3>My personal products</h3>h3> These are my products. You can click on the avatar to <a>download</a>it, play it out ...
+
+</br>
 
 <table>
         <tr>
@@ -237,11 +247,8 @@
 </table>
 
 
-> [!NOTE]
-> My personal products
 
- ----------------------------------------------------------
-
+###
 </br>
 
 <details>
@@ -297,9 +304,10 @@ Sunny
 
 ![](https://komarev.com/ghpvc/?username=mindongun123&&color=007bff)
  
-
 <details>
 <summary><h2>Address</h2></h2></summary>
+
+
   
 ```geojson
 {
@@ -358,6 +366,18 @@ Sunny
 }
 ```
 
+```mermaid
+graph TD;
+    M-->I;
+    I-->N;
+    M-->D;
+    O-->D;
+    O-->G;
+    G-->U;
+    F-->P;
+    H-->L;
+    L-->P;
+```
 
 </details>
 
