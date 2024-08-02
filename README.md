@@ -243,6 +243,16 @@ This is a sentence with footnote[^2]!
                 <div><i>16/09/2023/2023</i></div>
             </td>
         </tr>
+        <tr>
+          <td>
+             <img src="https://github.com/mindongun123/MergeRestaurant/blob/main/MJGame-MergeRestaurant_2.gif" alt="MJGame-MergeRestaurant" height="90px">
+          </td>
+            <td>
+                <a href="https://github.com/mindongun123/2024GB">[MJGame] Game MergeRestaurant</a>
+                <div>Cùng Jenny giúp bà làm bánh, và kiếm tiền xây dựng nhà hàng của mình!</div>
+                <div><i>16/09/2023/2023</i></div>
+            </td>
+        </tr>
     
 </table>
 
