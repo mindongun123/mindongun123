@@ -238,7 +238,7 @@ This is a sentence with footnote[^2]!
                 </a>
             </td>
             <td>
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23MJGame_TapMusic">[MJGame] Game Tap Music</a>
+                <a href="https://github.com/mindongun123/2024GB">[MJGame] Source code Game MergeRestaurant</a>
                 <div>Trò chơi Âm nhạc lôi cuốn, đơn giản, với kho âm nhạc lên tới 1000 bài hát hot nhất hiện nay, .... cùng tận hưởng những giây phút tuyệt vời cùng TapMusic nào!</div>
                 <div><i>16/09/2023/2023</i></div>
             </td>
