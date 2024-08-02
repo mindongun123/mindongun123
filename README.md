@@ -233,7 +233,7 @@ This is a sentence with footnote[^2]!
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23MJGame_TapMusic">
+                <a href="https://github.com/mindongun123/2024GB">
                     <img src="https://github.com/mindongun123/mindongun123/blob/main/Game TapMusic.png" alt="thumbnail">
                 </a>
             </td>
