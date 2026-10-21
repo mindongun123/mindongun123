@@ -1,6 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0EA5E9,100:2563EB&height=200&section=header&text=MJ%20Game%20Studio&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Casual%20%26%20Hyper-casual%20Mobile%20Games&descAlignY=58&animation=fadeIn" alt="MJ Game Studio banner" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.svg"/>
+    <img src="assets/banner/banner-light.svg" alt="MJ Game Studio — Casual & Hyper-casual Mobile Games" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
