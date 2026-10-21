@@ -3,6 +3,7 @@
   --sky: #0EA5E9;
   --blue: #2563EB;
   --sand: #D6B48C;
+  --logo-grad: linear-gradient(90deg, #5DE586 0%, #25A8B6 50%, #0E88D3 100%);
   --grad: linear-gradient(135deg, var(--teal), var(--sky) 55%, var(--blue));
   --bg: #FAF7F2;
   --surface: rgba(255, 255, 255, 0.72);
@@ -73,6 +74,7 @@ img { max-width: 100%; display: block; }
 .nav { position: sticky; top: 0; z-index: 10; backdrop-filter: blur(14px); background: color-mix(in srgb, var(--bg) 70%, transparent); border-bottom: 1px solid var(--border); }
 .nav-inner { display: flex; align-items: center; gap: 24px; height: 68px; }
 .brand { display: flex; align-items: center; gap: 10px; font-family: "Outfit"; font-weight: 800; font-size: 1.15rem; }
+.brand span { background: var(--logo-grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
 .links { display: flex; gap: 26px; margin-left: auto; font-weight: 500; }
 .links a { color: var(--muted); transition: color .2s; }
 .links a:hover { color: var(--sky); }
