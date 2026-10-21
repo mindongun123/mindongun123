@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MJ Game Studio</title>
+  <meta name="description" content="MJ Game Studio — casual & hyper-casual mobile games made with Unity." />
+  <link rel="icon" href="assets/brand/icon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script>
+    try {
+      var t = localStorage.getItem("theme");
+      if (t) document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <div class="blobs" aria-hidden="true"><span></span><span></span><span></span></div>
+
+  <header class="nav">
+    <div class="container nav-inner">
+      <a href="#home" class="brand"><img src="assets/brand/icon.svg" alt="" width="32" height="32" /> <span>MJ Game Studio</span></a>
+      <nav class="links" id="links">
+        <a href="#games" data-i18n="nav.games"></a>
+        <a href="#services" data-i18n="nav.services"></a>
+        <a href="#about" data-i18n="nav.about"></a>
+        <a href="#contact" data-i18n="nav.contact"></a>
+      </nav>
+      <div class="nav-actions">
+        <button class="chip" id="lang-toggle" aria-label="Switch language">VI</button>
+        <button class="chip" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+        <a href="#contact" class="btn btn-primary btn-sm" data-i18n="nav.hire"></a>
+        <button class="chip menu-btn" id="menu-btn" aria-label="Menu">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="hero container">
+      <div class="hero-text reveal">
+        <span class="pill" data-i18n="hero.tag"></span>
+        <h1 data-i18n-html="hero.title"></h1>
+        <p class="lead" data-i18n="hero.desc"></p>
+        <div class="cta">
+          <a href="#games" class="btn btn-primary" data-i18n="hero.ctaGames"></a>
+          <a href="#contact" class="btn btn-ghost" data-i18n="hero.ctaContact"></a>
+        </div>
+      </div>
+      <div class="phone reveal">
+        <div class="phone-screen"><img src="assets/games/mjgame.gif" alt="Gameplay" /></div>
+        <span class="float f1">⭐</span><span class="float f2">🍬</span><span class="float f3">🎯</span>
+      </div>
+    </section>
+
+    <section class="container stats reveal">
+      <div class="stat"><b data-count="10">0</b><span data-i18n="stats.games"></span></div>
+      <div class="stat"><b data-count="20">0</b><span data-i18n="stats.protos"></span></div>
+      <div class="stat"><b data-count="3">0</b><span data-i18n="stats.years"></span></div>
+      <div class="stat"><b data-count="30">0</b><span data-i18n="stats.repos"></span></div>
+    </section>
+
+    <section id="games" class="container section">
+      <h2 class="reveal" data-i18n="games.title"></h2>
+      <p class="sub reveal" data-i18n="games.sub"></p>
+      <div class="filters" id="filters"></div>
+      <div class="grid" id="game-grid"></div>
+    </section>
+
+    <section id="services" class="container section">
+      <h2 class="reveal" data-i18n="services.title"></h2>
+      <div class="cards" id="services-grid"></div>
+    </section>
+
+    <section class="marquee" aria-label="Tech stack">
+      <div class="track">
+        <span>Unity</span><span>C#</span><span>.NET</span><span>DOTween</span><span>Firebase</span><span>AdMob</span><span>IronSource</span><span>AppLovin MAX</span><span>Unity Analytics</span><span>Git</span>
+        <span>Unity</span><span>C#</span><span>.NET</span><span>DOTween</span><span>Firebase</span><span>AdMob</span><span>IronSource</span><span>AppLovin MAX</span><span>Unity Analytics</span><span>Git</span>
+      </div>
+    </section>
+
+    <section class="container section">
+      <h2 class="reveal" data-i18n="process.title"></h2>
+      <ol class="process" id="process"></ol>
+    </section>
+
+    <section id="about" class="container section about">
+      <div class="avatar reveal"><img src="assets/brand/logo.svg" alt="MJ logo" /></div>
+      <div class="reveal">
+        <h2 data-i18n="about.title"></h2>
+        <p data-i18n="about.body"></p>
+        <ul class="timeline" id="timeline"></ul>
+      </div>
+    </section>
+
+    <section id="contact" class="container section">
+      <div class="contact-card reveal">
+        <div>
+          <h2 data-i18n="contact.title"></h2>
+          <p data-i18n="contact.sub"></p>
+          <p class="contact-links">
+            <a href="mailto:mindongun123@gmail.com">✉️ mindongun123@gmail.com</a>
+            <a href="https://facebook.com/md.6823" target="_blank" rel="noopener">💬 Facebook</a>
+            <a href="https://github.com/mindongun123" target="_blank" rel="noopener">🐙 GitHub</a>
+          </p>
+        </div>
+        <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="form">
+          <input name="name" required data-i18n-ph="contact.name" />
+          <input name="email" type="email" required data-i18n-ph="contact.email" />
+          <textarea name="message" rows="4" required data-i18n-ph="contact.message"></textarea>
+          <button class="btn btn-primary" type="submit" data-i18n="contact.send"></button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <a href="#home" class="brand"><img src="assets/brand/icon.svg" alt="" width="28" height="28" /> <span>MJ Game Studio</span></a>
+      <span>© <span id="year"></span> MJ Game Studio · <span data-i18n="footer.made"></span></span>
+    </div>
+  </footer>
+
+  <dialog id="game-modal" class="modal">
+    <button class="chip modal-close" id="modal-close" aria-label="Close">✕</button>
+    <img id="modal-img" alt="" />
+    <h3 id="modal-title"></h3>
+    <p class="tags" id="modal-tags"></p>
+    <p id="modal-desc"></p>
+    <a id="modal-link" class="btn btn-primary" target="_blank" rel="noopener"></a>
+  </dialog>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

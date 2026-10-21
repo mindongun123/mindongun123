@@ -1,0 +1,63 @@
+{
+  "nav": { "games": "Game", "services": "Dịch vụ", "about": "Giới thiệu", "contact": "Liên hệ", "hire": "Hợp tác" },
+  "hero": {
+    "tag": "🎮 Game mobile Casual & Hyper-casual",
+    "title": "Chúng tôi làm những game <span class=\"grad-text\">dễ chơi, khó dừng lại</span>",
+    "desc": "MJ Game Studio làm game mobile nhỏ gọn, \"juicy\" bằng Unity — từ prototype hyper-casual thần tốc đến game casual hoàn chỉnh sẵn sàng lên store.",
+    "ctaGames": "Xem game",
+    "ctaContact": "Liên hệ ngay"
+  },
+  "stats": { "games": "Game đã phát hành", "protos": "Prototype", "years": "Năm kinh nghiệm", "repos": "Repo công khai" },
+  "games": {
+    "title": "Game",
+    "sub": "Bấm vào thẻ để xem chi tiết và tải về.",
+    "all": "Tất cả",
+    "download": "Tải APK",
+    "repo": "Xem trên GitHub",
+    "items": {
+      "matchkit": "Game nối 3 đầy màu sắc, combo đã tay, các level được thiết kế ngày càng mới lạ.",
+      "merge": "Cùng Jenny làm bánh, ghép nguyên liệu và xây nhà hàng ấm cúng của riêng mình.",
+      "tapmusic": "Chạm theo nhịp những bài hát hot — điều khiển một ngón, chơi mãi không chán.",
+      "block": "Xếp gạch huyền thoại làm lại cho mobile: nhấc, đặt, xóa hàng.",
+      "emoji": "Ghép cảm xúc! Game giải đố emoji nhẹ nhàng, chơi mọi lúc mọi nơi.",
+      "runner": "Chạy 3D một ngón: né, nhặt và phá kỷ lục.",
+      "connect": "Nối điểm, lấp đầy bảng — giải đố thư giãn.",
+      "jump": "Game nhảy vượt màn vui nhộn qua những thế giới đầy màu sắc."
+    }
+  },
+  "services": {
+    "title": "Chúng tôi làm gì",
+    "items": [
+      { "ico": "⚡", "t": "Prototype hyper-casual", "d": "Prototype chơi được trong vài ngày, sẵn sàng test CPI & retention." },
+      { "ico": "📱", "t": "Game casual mobile", "d": "Game Unity hoàn chỉnh: core loop, level, meta, đánh bóng." },
+      { "ico": "🍬", "t": "Game feel & UI juicy", "d": "Nảy, bật, hạt, rung — mỗi cú chạm đều đã tay." },
+      { "ico": "💰", "t": "Ads, IAP & Analytics", "d": "Tích hợp AdMob, IronSource, AppLovin MAX, IAP và Firebase." },
+      { "ico": "🚀", "t": "Tối ưu & phát hành", "d": "Build nhẹ, FPS mượt trên máy yếu, đưa lên store." }
+    ]
+  },
+  "process": {
+    "title": "Quy trình",
+    "items": [
+      { "t": "Ý tưởng", "d": "Tìm điểm hút người chơi hiểu trong 3 giây." },
+      { "t": "Prototype", "d": "Làm nhanh cơ chế chính và test." },
+      { "t": "Phát triển", "d": "Level, meta, hiệu ứng và kiếm tiền." },
+      { "t": "Kiểm thử", "d": "Cân độ khó, sửa lỗi, xem số liệu." },
+      { "t": "Phát hành", "d": "Lên store, theo dõi dữ liệu, cải tiến." }
+    ]
+  },
+  "about": {
+    "title": "Về người sáng lập",
+    "body": "Xin chào, mình là Nguyễn Minh Đông (2003, Thanh Hóa) — lập trình viên Unity / C# chuyên game mobile casual và hyper-casual. Mình mê những game nhỏ mà cảm giác chơi thật \"đã\".",
+    "timeline": [
+      { "y": "2023", "t": "Ra mắt những game Android đầu tiên: Match Kit, Block, Emoji." },
+      { "y": "2024", "t": "Merge Restaurant, Tap Music và nhiều game casual khác." },
+      { "y": "Hiện tại", "t": "Xây dựng MJ Game Studio và làm prototype hyper-casual." }
+    ]
+  },
+  "contact": {
+    "title": "Cùng làm gì đó vui nhé",
+    "sub": "Có ý tưởng game, cần làm prototype hay đang tuyển người? Nhắn cho mình nhé.",
+    "name": "Tên của bạn", "email": "Email của bạn", "message": "Kể về dự án của bạn", "send": "Gửi tin nhắn"
+  },
+  "footer": { "made": "Làm bằng cả trái tim 💙" }
+}

@@ -1,0 +1,63 @@
+{
+  "nav": { "games": "Games", "services": "Services", "about": "About", "contact": "Contact", "hire": "Hire me" },
+  "hero": {
+    "tag": "🎮 Casual & Hyper-casual Mobile Games",
+    "title": "We craft games that are <span class=\"grad-text\">easy to play, hard to put down</span>",
+    "desc": "MJ Game Studio builds juicy, bite-sized mobile games with Unity — from rapid hyper-casual prototypes to polished casual titles ready for the store.",
+    "ctaGames": "See our games",
+    "ctaContact": "Let's talk"
+  },
+  "stats": { "games": "Games shipped", "protos": "Prototypes", "years": "Years of experience", "repos": "Public repos" },
+  "games": {
+    "title": "Games",
+    "sub": "Tap a card to see details and download.",
+    "all": "All",
+    "download": "Download APK",
+    "repo": "View on GitHub",
+    "items": {
+      "matchkit": "A colorful match-3 with satisfying combos and hand-crafted levels that keep getting fresher.",
+      "merge": "Help Jenny bake, merge ingredients and grow her own cozy restaurant.",
+      "tapmusic": "Tap to the beat of trending songs — simple one-finger controls, endless replay.",
+      "block": "The timeless block puzzle, rebuilt for mobile: pick up, place, clear lines.",
+      "emoji": "Match the feelings! A light emoji puzzle you can play anytime, anywhere.",
+      "runner": "A one-thumb 3D runner: dodge, collect and chase the high score.",
+      "connect": "Connect the dots and fill the board — a relaxing brain teaser.",
+      "jump": "A cheerful casual platformer with bouncy jumps across colorful worlds."
+    }
+  },
+  "services": {
+    "title": "What we do",
+    "items": [
+      { "ico": "⚡", "t": "Hyper-casual prototypes", "d": "Playable prototypes in days, ready for CPI and retention tests." },
+      { "ico": "📱", "t": "Casual mobile games", "d": "Full Unity games: core loop, levels, meta progression, polish." },
+      { "ico": "🍬", "t": "Game feel & juicy UI", "d": "Bounces, pops, particles and haptics that make every tap feel great." },
+      { "ico": "💰", "t": "Ads, IAP & analytics", "d": "AdMob, IronSource, AppLovin MAX, IAP and Firebase events wired in." },
+      { "ico": "🚀", "t": "Optimize & publish", "d": "Small builds, smooth FPS on low-end devices, store-ready releases." }
+    ]
+  },
+  "process": {
+    "title": "How we work",
+    "items": [
+      { "t": "Idea", "d": "Find a hook players get in 3 seconds." },
+      { "t": "Prototype", "d": "Build the core mechanic fast and test it." },
+      { "t": "Develop", "d": "Levels, meta, juice and monetization." },
+      { "t": "Test", "d": "Tune difficulty, fix bugs, check metrics." },
+      { "t": "Launch", "d": "Publish, watch data, iterate." }
+    ]
+  },
+  "about": {
+    "title": "About the founder",
+    "body": "Hi, I'm Nguyen Minh Dong (born 2003, Thanh Hoa, Vietnam) — a Unity / C# developer focused on casual and hyper-casual mobile games. I love small games with big feel.",
+    "timeline": [
+      { "y": "2023", "t": "Shipped first Android games: Match Kit, Block, Emoji." },
+      { "y": "2024", "t": "Merge Restaurant, Tap Music and more casual titles." },
+      { "y": "Now", "t": "Building MJ Game Studio and rapid hyper-casual prototypes." }
+    ]
+  },
+  "contact": {
+    "title": "Let's make something fun",
+    "sub": "Have a game idea, a prototype to build, or a role to fill? Drop me a message.",
+    "name": "Your name", "email": "Your email", "message": "Tell me about your project", "send": "Send message"
+  },
+  "footer": { "made": "Made with Unity-level love 💙" }
+}

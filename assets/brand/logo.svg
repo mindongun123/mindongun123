@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3686 3686" width="512" height="512">
+  <rect width="3686" height="3686" rx="811" fill="#FFFFFF"/>
+  <g transform="translate(716 500)">
+  <defs>
+    <linearGradient id="mj" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="2686">
+      <stop offset="0" stop-color="#5DE586"/>
+      <stop offset="0.5" stop-color="#25A8B6"/>
+      <stop offset="0.75" stop-color="#0E88D3"/>
+      <stop offset="1" stop-color="#0E88D3"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#mj)">
+    <polygon points="0,571 266,571 266,2672 0,2672"/>
+    <polygon points="266,571 761,1255 761,1708 266,1024"/>
+    <polygon points="761,0 1027,0 1027,2081 761,2081"/>
+    <polygon points="483,158 2253,158 2253,424 483,424"/>
+    <polygon points="1027,1262 1524,571 1524,1034 1027,1716"/>
+    <polygon points="1524,571 1790,571 1790,2672 1524,2672"/>
+    <polygon points="1987,424 2253,424 2253,1199 1987,1235"/>
+    <polygon points="2253,1199 1172,2685 956,2528 1987,1109"/>
+  </g>
+  </g>
+</svg>
