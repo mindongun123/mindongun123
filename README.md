@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/mindongun123">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Casual+%26+Hyper-casual+Game+Developer;Unity+%2B+C%23;Easy+to+play%2C+hard+to+put+down+%F0%9F%8E%AE" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Casual+%26+Hyper-casual+Game+Developer;Unity+%2B+C%23;Play.+Grow.+Together." alt="Typing SVG"/>
   </a>
 </p>
 

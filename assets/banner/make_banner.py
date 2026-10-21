@@ -68,7 +68,7 @@ def make(dark):
       <rect x="303" y="222" width="236" height="50" rx="25" fill="url(#g)"/>
       <text class="t" x="421" y="255" font-size="20" fill="#fff" text-anchor="middle" letter-spacing="2">▶ TAP TO PLAY</text>
     </g>
-    <text class="s" x="560" y="254" font-size="20" fill="{sub}">Easy to play, hard to put down 🎮</text>
+    <text class="s" x="560" y="254" font-size="20" fill="{sub}">Play. Grow. Together. 💙</text>
   </g>
 </g>
 </svg>
