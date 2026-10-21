@@ -1,12 +1,12 @@
 const GAMES = [
-  { id: "matchkit", name: "Match Kit", cat: "Match-3", img: "assets/games/matchkit.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit", apk: true },
-  { id: "merge", name: "Merge Restaurant", cat: "Merge", img: "https://github.com/mindongun123/MergeRestaurant/blob/main/MJGame-MergeRestaurant_2.gif?raw=true", url: "https://github.com/mindongun123/MergeRestaurant" },
-  { id: "tapmusic", name: "Tap Music", cat: "Music / Tap", img: "assets/games/tapmusic.png", url: "https://github.com/mindongun123/2024GB" },
-  { id: "block", name: "Block", cat: "Puzzle", img: "assets/games/block.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block", apk: true },
-  { id: "emoji", name: "Emoji", cat: "Puzzle", img: "assets/games/emoji.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji", apk: true },
-  { id: "runner", name: "Runner 3D", cat: "Hyper-casual", img: "assets/games/runner3d.png", url: "https://github.com/mindongun123" },
-  { id: "connect", name: "Connect", cat: "Puzzle", img: "assets/games/gconnect.png", url: "https://github.com/mindongun123" },
-  { id: "jump", name: "Jump Adventure", cat: "Casual", img: "assets/games/mario.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario", apk: true }
+  { id: "matchkit", name: "Match Kit", cat: "Match-3", img: "assets/games/thumbs/matchkit.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit", apk: true },
+  { id: "merge", name: "Merge Restaurant", cat: "Merge", img: "assets/games/thumbs/merge.png", url: "https://github.com/mindongun123/MergeRestaurant" },
+  { id: "tapmusic", name: "Tap Music", cat: "Music / Tap", img: "assets/games/thumbs/tapmusic.png", url: "https://github.com/mindongun123/2024GB" },
+  { id: "block", name: "Block Puzzle", cat: "Puzzle", img: "assets/games/thumbs/block.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block", apk: true },
+  { id: "emoji", name: "Emoji Riddles", cat: "Puzzle", img: "assets/games/thumbs/emoji.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji", apk: true },
+  { id: "runner", name: "Runner 3D", cat: "Hyper-casual", img: "assets/games/thumbs/runner.png", url: "https://github.com/mindongun123" },
+  { id: "connect", name: "Dot Connect", cat: "Puzzle", img: "assets/games/thumbs/connect.png", url: "https://github.com/mindongun123" },
+  { id: "jump", name: "Jump Adventure", cat: "Casual", img: "assets/games/thumbs/jump.png", url: "https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario", apk: true }
 ];
 
 const $ = (s, el = document) => el.querySelector(s);

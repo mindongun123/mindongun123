@@ -57,34 +57,34 @@ Quest:       Build small games that feel juicy and keep players coming back
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit"><img src="assets/games/matchkit.png" width="100%" alt="Match Kit"/></a>
+      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit"><img src="assets/games/thumbs/matchkit.png" width="100%" alt="Match Kit"/></a>
       <b>Match Kit</b><br/><sub>Match-3 · Android</sub><br/>
       <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit"><img src="https://img.shields.io/badge/Download-APK-2DD4BF?style=flat-square&logo=android&logoColor=white" alt="APK"/></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/mindongun123/MergeRestaurant"><img src="https://github.com/mindongun123/MergeRestaurant/blob/main/MJGame-MergeRestaurant_2.gif?raw=true" width="100%" alt="Merge Restaurant"/></a>
+      <a href="https://github.com/mindongun123/MergeRestaurant"><img src="assets/games/thumbs/merge.png" width="100%" alt="Merge Restaurant"/></a>
       <b>Merge Restaurant</b><br/><sub>Merge · Casual</sub><br/>
       <a href="https://github.com/mindongun123/MergeRestaurant"><img src="https://img.shields.io/badge/View-Repo-0EA5E9?style=flat-square&logo=github" alt="Repo"/></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/mindongun123/2024GB"><img src="assets/games/tapmusic.png" width="100%" alt="Tap Music"/></a>
+      <a href="https://github.com/mindongun123/2024GB"><img src="assets/games/thumbs/tapmusic.png" width="100%" alt="Tap Music"/></a>
       <b>Tap Music</b><br/><sub>Music / Tap · Hyper-casual</sub><br/>
       <a href="https://github.com/mindongun123/2024GB"><img src="https://img.shields.io/badge/View-Repo-0EA5E9?style=flat-square&logo=github" alt="Repo"/></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block"><img src="assets/games/block.png" width="100%" alt="Block"/></a>
-      <b>Block</b><br/><sub>Puzzle · Android</sub><br/>
+      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block"><img src="assets/games/thumbs/block.png" width="100%" alt="Block"/></a>
+      <b>Block Puzzle</b><br/><sub>Puzzle · Android</sub><br/>
       <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Block"><img src="https://img.shields.io/badge/Download-APK-2DD4BF?style=flat-square&logo=android&logoColor=white" alt="APK"/></a>
     </td>
     <td align="center">
-      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji"><img src="assets/games/emoji.png" width="100%" alt="Emoji"/></a>
-      <b>Emoji</b><br/><sub>Puzzle · Casual</sub><br/>
+      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji"><img src="assets/games/thumbs/emoji.png" width="100%" alt="Emoji"/></a>
+      <b>Emoji Riddles</b><br/><sub>Puzzle · Casual</sub><br/>
       <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji"><img src="https://img.shields.io/badge/Download-APK-2DD4BF?style=flat-square&logo=android&logoColor=white" alt="APK"/></a>
     </td>
     <td align="center">
-      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario"><img src="assets/games/mario.png" width="100%" alt="Jump Adventure"/></a>
+      <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario"><img src="assets/games/thumbs/jump.png" width="100%" alt="Jump Adventure"/></a>
       <b>Jump Adventure</b><br/><sub>Casual platformer · Android</sub><br/>
       <a href="https://github.com/mindongun123/MJGame_APK/releases/tag/MJGame_Mario"><img src="https://img.shields.io/badge/Download-APK-2DD4BF?style=flat-square&logo=android&logoColor=white" alt="APK"/></a>
     </td>
